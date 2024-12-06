@@ -83,7 +83,7 @@ Contributions are welcome! Please follow these steps:
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, TYPESCRIPT, CSS...
 
 
 ## Authors
